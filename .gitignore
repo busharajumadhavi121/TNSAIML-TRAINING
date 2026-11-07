@@ -1,0 +1,23 @@
+Virtual environment
+
+.venv/
+venv/
+env/
+
+Python cache
+
+pycache/
+*.pyc
+
+Environment variables
+
+.env
+
+VS Code settings
+
+.vscode/
+
+.venv/
+.vscode/
+__pycache__/
+*.pycgit checkout --orphan clean-main
